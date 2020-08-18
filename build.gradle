@@ -172,3 +172,5 @@ task integrationTest(type: Test) {
     classpath = sourceSets.integrationTest.runtimeClasspath
     shouldRunAfter test
 }
+
+generateCsmartJooqSchemaSource.enabled(false)
