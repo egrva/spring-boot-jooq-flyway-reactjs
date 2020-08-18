@@ -33,7 +33,6 @@ out/
 ### VS Code ###
 .vscode/
 
-target/
 dev-env/volumes/database-volume/
 
 # Project exclude paths
