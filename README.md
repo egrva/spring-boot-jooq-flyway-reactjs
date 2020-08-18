@@ -69,16 +69,16 @@ To run tests, use the following commands:
 
 ## Used technologies
 
-#####For back-end:
+##### For back-end:
 * [Gradle](https://gradle.org/)
 * [Kotlin](https://kotlinlang.org/)
 * [Spring Boot](https://spring.io/projects/spring-boot) 
 
-#####For front-end:
+##### For front-end:
 * [React.js](https://reactjs.org/)
 * [npm](https://www.npmjs.com/)
 
-#####For database connectivity:
+##### For database connectivity:
 * [PostgreSQL JDBC](https://github.com/pgjdbc/pgjdbc)
 * [Flyway](https://flywaydb.org/) 
 * [jOOQ](https://www.jooq.org/)
